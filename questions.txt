@@ -1,0 +1,15 @@
+Question 4- Program ADC - 
+
+Given: ADC = 12 bits of resolution, reference voltage = 9V
+
+b) Count recieved = 2156.00
+
+c) Calculated voltage = 4.738462 V
+
+d) Maximum count = 4095
+
+
+Question 5- Bonus Question
+
+[5 pts extra credit] The circuit shown in Figure 1 is used for:
+B) MSP430 CLK Generation
